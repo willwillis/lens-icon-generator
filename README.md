@@ -1,6 +1,6 @@
 # OpenLens Icon Generator
 
-![OpenLens Icon](examples/SBXAF01.MagettasDemoBold-vL39.ttf.YellowGreen.png)
+![OpenLens Icon](examples/SBXAF01.MagettasDemoBold-vL39.ttf.YellowGreen.png) ![OpenLens Screenshot](examples/OpenLens.png)
 
 This project/script will generate color coded text images which can be used as OpenLens icons for kubernetes environments. I was
 managing a bunch at one point and wrote this scrpt up some time in 2023. I found it today and decided to release it here. I have
@@ -47,6 +47,10 @@ This script references paths on my computer. Update those to suit your needs.
 # Running the script
 
 `perl generate.pl`
+
+# Output / Examples
+
+Have a look in the examples folder to see, well, examples of what these icons will look like in the various colors.
 
 # Contributions
 
