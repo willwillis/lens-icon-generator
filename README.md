@@ -15,7 +15,9 @@ ENV
 ```
 
 ACT: Account Code/Identifier
+
 RGN: Region Code
+
 ENV: Environment
 
 Of course you can change whatever you wish to fit your needs.
