@@ -1,5 +1,7 @@
 # OpenLens Icon Generator
 
+![OpenLens Icon](examples/SBXAF01.MagettasDemoBold-vL39.ttf.YellowGreen.png)
+
 This project/script will generate color coded text images which can be used as OpenLens icons for kubernetes environments. I was
 managing a bunch at one point and wrote this scrpt up some time in 2023. I found it today and decided to release it here. I have
 no plans to maintain, modify or update this script at this moment.
